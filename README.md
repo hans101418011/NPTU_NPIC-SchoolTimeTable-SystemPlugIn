@@ -4,9 +4,13 @@ npic-schoolTimetable
  被轉換的的課程表系統 http://webs3.npic.edu.tw/selectn/clist.asp
  *原始表格(轉換為陣列)
    0 科目代碼
+   
    1 課程名稱
+   
    2 博雅涵養課程領域
+   
    3 必選修
+   
    4 學分數
    5 學期數
    6 年制
