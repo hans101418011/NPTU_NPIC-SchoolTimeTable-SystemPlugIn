@@ -68,20 +68,23 @@ javascript: (function () {
             }
             text1 += '</tr>';
         }
-        $('body').prepend('  <style type="text/css">
-	body {
-		text-align: center;	
-	}
-	table {
-		margin-right: auto;
-		margin-left: auto;
-  		border: 1px solid #000;
-  		border-collapse: collapse;
-	}
-	tr, td {
-  		border: 1px solid #000;
-		text-align: center;
-	}
-  </style> <table id="t1" border="1">' + text1 + '</table>');
+        $('body').prepend('<table id="t1" border="1">' + text1 + '</table>');
     }, 100)
+	setTimeout(function () {
+		$('body').prepend('<style type="text/css">
+			body {
+				text-align: center;	
+			}
+			table {
+				margin-right: auto;
+				margin-left: auto;
+				border: 1px solid #000;
+				border-collapse: collapse;
+			}
+			tr, td {
+				border: 1px solid #000;
+				text-align: center;
+			}
+		  </style>');		 
+	}, 100)
 })()
