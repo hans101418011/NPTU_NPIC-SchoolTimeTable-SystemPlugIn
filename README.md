@@ -1,11 +1,8 @@
 npic-schoolTimetable
 ====================
-
 這是屏東商業技術學院課程表轉換課表的javascript
 被轉換的的課程表系統 http://webs3.npic.edu.tw/selectn/clist.asp
-
-原始表格(轉換為陣列)
-
+*原始表格(轉換為陣列)
  0 科目代碼
  1 課程名稱
  2 博雅涵養課程領域
