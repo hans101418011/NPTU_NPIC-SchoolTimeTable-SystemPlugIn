@@ -4,7 +4,7 @@ npic-schoolTimetable
 
  被轉換的的課程表系統 http://webs3.npic.edu.tw/selectn/clist.asp
  
- *原始表格(轉換為陣列)
+ *原始表格(轉換為陣列為0開始)
  <ol>
 <li>科目代碼
 <li>課程名稱
