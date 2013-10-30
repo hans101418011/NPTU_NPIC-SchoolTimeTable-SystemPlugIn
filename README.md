@@ -1,6 +1,7 @@
 npic-schoolTimetable
 ***
 這是屏東商業技術學院課程表轉換課表的javascript
+
  使用教學 http://student-mail.npic.edu.tw/~s101418011/class.php
  
  被轉換的的課程表系統 http://webs3.npic.edu.tw/selectn/clist.asp
