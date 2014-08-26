@@ -1,7 +1,19 @@
 NPTU(NPIC) School TimeTable System Plug-in
 ***
 這是屏東大學 屏商校區的課程表系統轉換時間課表的外掛
+
 使用的是Javascript和jQuery
+
+
+Update Time
+
+2014/08/25 1.0和1.1完成
+
+Bug
+
+不支援兩個班級以上的轉換
+
+
 
  使用教學 http://student-mail.npic.edu.tw/~s101418011/class.php
  
